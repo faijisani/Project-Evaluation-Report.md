@@ -13,7 +13,7 @@ The purpose of this evaluation is to identify successful areas, challenges, less
 ## 2. Self-Evaluation
 
 ### Week 1 – Requirements Analysis
-The requirements and system planning phase provided a clear foundation for the project. User requirements, major features, and system objectives were identified.
+The requirements and system planning phase provided a clear foundation for the project. User requirements, major features, and system objectives were identified. 
 
 **Improvement:** Requirements could be documented with more detailed acceptance criteria and user feedback.
 
